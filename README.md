@@ -1,6 +1,7 @@
-# counter_app
+# App Contador
 
 A new Flutter project.
+App Contador, App de práctica inicial en Flutter
 
 ## Getting Started
 
